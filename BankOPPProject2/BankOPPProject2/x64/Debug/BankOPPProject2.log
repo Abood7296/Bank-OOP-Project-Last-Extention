@@ -1,0 +1,86 @@
+﻿  clsMainScreen.cpp
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsString.h(43,25): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsString.h(48,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsString.h(60,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsString.h(197,29): warning C4267: 'return': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsString.h(328,30): warning C4267: '=': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsString.h(376,22): warning C4267: 'initializing': conversion from 'size_t' to 'short', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsUtil.h(64,9): warning C4102: 'defualt': unreferenced label
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsUser.h(214,12): warning C4240: nonstandard extension used: access to 'clsUser::stLoginRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsMainScreen.cpp')
+      C:\Users\alwaleed\source\repos\BankOPPProject2\clsUser.h(32,9):
+      see declaration of 'clsUser::stLoginRegisterRecord'
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsInputValidate.h(114,16): warning C4244: 'initializing': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsInputValidate.h(118,26): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsBankClient1.h(185,12): warning C4240: nonstandard extension used: access to 'clsBankClient1::stTransferRegisterRecord' now defined to be 'public', previously it was defined to be 'private'
+  (compiling source file 'clsMainScreen.cpp')
+      C:\Users\alwaleed\source\repos\BankOPPProject2\clsBankClient1.h(47,12):
+      see declaration of 'clsBankClient1::stTransferRegisterRecord'
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsBankClient1.h(28,65): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsBankClient1.h(57,45): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsBankClient1.h(58,59): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsBankClient1.h(59,64): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsBankClient1.h(371,27): warning C4244: '+=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsBankClient1.h(385,32): warning C4244: '-=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsAddNewClientScreen.h(30,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsUpdateClientScreen.h(44,66): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsTotalBalanceScreen.h(55,60): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsShowTransferScreen.h(106,45): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsShowTransferScreen.h(111,44): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsAddNewUserScreen.h(44,17): warning C4129: 'P': unrecognized character escape sequence
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsCurrency.h(25,17): warning C4244: 'argument': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsUpdateRateScreen.h(15,52): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsCurrencyCalculatorScreen.h(16,51): warning C4244: '=': conversion from 'double' to 'float', possible loss of data
+  (compiling source file 'clsMainScreen.cpp')
+  
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsUser.h(359,1): warning C4715: 'clsUser::Save': not all control paths return a value
+C:\Users\alwaleed\source\repos\BankOPPProject2\clsBankClient1.h(318,1): warning C4715: 'clsBankClient1::Save': not all control paths return a value
+  BankOPPProject2.vcxproj -> C:\Users\alwaleed\source\repos\BankOPPProject2\x64\Debug\BankOPPProject2.exe
